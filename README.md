@@ -25,4 +25,14 @@ style.css
     text-transform: uppercase;
 }
 ```
+###메뉴구성
+메뉴 구성을 위한 카테고리 정의
+- Egloos
+- Family
+- 행복공간목수
+- Essay
+- Life
+
+스킨 적용 후 적용되는 메인 메뉴는 하나
+메인메뉴 버젼1  작성
 
